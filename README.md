@@ -9,7 +9,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="xefigueroa | LinkedIn" width="48px" src="/images/linkedin_icon.png" />][linkedin]
+[<img align="left" alt="xefigueroa | LinkedIn" width="66px" src="/images/linkedinlogo.png" />][linkedin]
 
 
 <br />
