@@ -37,7 +37,8 @@
 <details>
   <summary>GitHub Stats</summary>
   <a><img width="425" align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xefigueroa&layout=compact&hide=perl&theme=tokyonight" /></a>
-  [![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xefigueroa)](https://github.com/xefigueroa/github-readme-stats)
+ <br/>
+ 
 
 </details>
 
