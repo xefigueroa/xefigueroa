@@ -9,7 +9,8 @@
 ### Connect with me:
 
 
-[<img align="left" alt="xefigueroa | LinkedIn" width="44px" src="/images/linkedinicon.png" />][linkedin]
+[<img align="left" alt="xefigueroa | LinkedIn" width="40px" src="/images/linkedinicon.png" />][linkedin]
+[<img align="left" alt="xefigueroa | Gmail" width="44px" src="/images/gmaillogo.png" />][gmail]
 
 
 <br />
@@ -35,6 +36,7 @@
 <details>
   <summary>GitHub Stats</summary>
   <a><img width="425" align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xefigueroa&layout=compact&hide=perl&theme=tokyonight" /></a>
+  [![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xefigueroa)](https://github.com/xefigueroa/github-readme-stats)
 
 </details>
 
@@ -45,3 +47,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/xavier-e-figueroa
+[Gmail]: 2377@holbertonschool.com
+
