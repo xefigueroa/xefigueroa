@@ -6,14 +6,25 @@
 - 🔭 Have a Bachellor's Degree in Computer Sciences
 - :desktop_computer: Open to work
 
-### Connect with me:
+### Connect, Contact or Get My Resume:
 
 
 [<img align="left" alt="xefigueroa | LinkedIn" width="40px" src="/images/linkedinicon.png" />][linkedin]
 [<a href="mailto:x.e.figueroa@gmail.com"><img align="left" alt="xefigueroa | Gmail" width="44px" src="/images/gmaillogo.png" />][gmail]
-
-
+  
 <br />
+<br />
+
+<h3 align="center">Pinned Repositories</h3>
+
+| Repository | Description |
+| --- | --- |
+| [ holbertonschool-system_engineering-devops](https://github.com/xefigueroa/holberton-system_engineering-devops) | Linux Permissions, Redirections, Syscalls, Web Servers |
+| [ holbertonschool-low_level_programming](https://github.com/xefigueroa/holbertonschool-low_level_programming) | C programming, Data Structures & Algorithms |
+| [ holbertonschool-higher_level_programming](https://github.com/xefigueroa/holbertonschool-higher_level_programming) | Python, Object-Oriented Programming, MySQL, Web Development (HTML, CSS, JavaScript) |
+
+
+
 <br />
 
 ### Languages and Tools:
