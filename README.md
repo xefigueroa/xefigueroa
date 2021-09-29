@@ -10,7 +10,7 @@
 
 
 [<img align="left" alt="xefigueroa | LinkedIn" width="40px" src="/images/linkedinicon.png" />][linkedin]
-[<img align="left" alt="xefigueroa | Gmail" width="44px" src="/images/gmaillogo.png" />][gmail]
+[<a href="mailto:x.e.figueroa@gmail.com"><img align="left" alt="xefigueroa | Gmail" width="44px" src="/images/gmaillogo.png" />][gmail]
 
 
 <br />
