@@ -11,6 +11,7 @@
 
 [<img align="left" alt="xefigueroa | LinkedIn" width="40px" src="/images/linkedinicon.png" />][linkedin]
 [<a href="mailto:x.e.figueroa@gmail.com"><img align="left" alt="xefigueroa | Gmail" width="44px" src="/images/gmaillogo.png" />][gmail]
+<a href="https://github.com/xefigueroa/xefigueroa/blob/main/Resume_Xavier_Figueroa_2021_format1.pdf"><img src="https://img.shields.io/badge/RESUME-8B0000?style=for-the-badge"></a>
   
 <br />
 <br />
